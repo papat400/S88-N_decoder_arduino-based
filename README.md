@@ -54,7 +54,7 @@ Vous trouverez des exemples de branchement typiques dans le fichier **S88_bricol
 
 Le programme Arduino se trouve dans l'archive **S88_UNO.zip**. Il provient de Locoduino : https://www.locoduino.org/spip.php?article138
 
-Entrées/sorties utilisées par le bus S88 :
+Entrées/sorties utilisées par le bus S88 du Nano :
 - Clock S88 : pin = 2
 - PS S88 : pin = 3
 - Data Input venant de l'Arduino précédent dans la chaîne S88 : pin = 0
