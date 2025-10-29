@@ -26,7 +26,7 @@ Digital inputs used for contacts:
 
 For this sketch, you'll need **UNO_S88** library, available in the **UNO_S88.zip** archive.
 
-There are two versions of the PCB: one with screw terminals **S88_Nano_16R0C_2Layers**, the other with DuPont connectors **S88_Nano_16R0C_2Layers_DuPont**. Each person can choose whichever they prefer.
+There are two versions of the PCB: one with screw terminals (see **S88_Nano_16R0C_2Layers** files), the other with DuPont connectors (see **S88_Nano_16R0C_2Layers_DuPont** file). Each person can choose whichever they prefer.
 The PCBs were designed using Eagle 9.6.2 free.
 
 ---
@@ -59,5 +59,5 @@ Entrées TOR (Tout Ou Rien) utilisées pour les contacts :
 
 Pour ce programme, vous aurez besoin de la bibliothèque **UNO_S88**, disponible dans l'archive **UNO_S88.zip**.
 
-Il y a deux versions de PCB : un avec des borniers à vis **S88_Nano_16R0C_2Layers**, l'autre avec des connecteurs DuPont **S88_Nano_16R0C_2Layers_DuPont**. A chacun de choisir ce qu'il préfère.
+Il y a deux versions de PCB : un avec des borniers à vis (voir fichiers **S88_Nano_16R0C_2Layers**), l'autre avec des connecteurs DuPont (voir fichiers **S88_Nano_16R0C_2Layers_DuPont**). A chacun de choisir ce qu'il préfère.
 Les PCB ont été dessinés avec Eagle 9.6.2 free.
