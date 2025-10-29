@@ -29,6 +29,8 @@ For this sketch, you'll need **UNO_S88** library, available in the **UNO_S88.zip
 There are two versions of the PCB: one with screw terminals (see **S88_Nano_16R0C_2Layers** files), the other with DuPont connectors (see **S88_Nano_16R0C_2Layers_DuPont** file). Each person can choose whichever they prefer.
 The PCBs were designed using Eagle 9.6.2 free.
 
+On the PCB, there is a jumper labeled **Data_In_To**. On the last S88 module (the one furthest from the control unit), you must place a shunt between the **central terminal** and **GND**. This is important.
+
 ---
 
 # Français
@@ -61,3 +63,5 @@ Pour ce programme, vous aurez besoin de la bibliothèque **UNO_S88**, disponible
 
 Il y a deux versions de PCB : un avec des borniers à vis (voir fichiers **S88_Nano_16R0C_2Layers**), l'autre avec des connecteurs DuPont (voir fichiers **S88_Nano_16R0C_2Layers_DuPont**). A chacun de choisir ce qu'il préfère.
 Les PCB ont été dessinés avec Eagle 9.6.2 free.
+
+Sur le PCB, on trouve un Jumper nommé **Data_In_To**. Sur le dernier module S88 (le plus éloigné de la centrale), il faut mettre un shunt entre **la borne centrale** et le **GND**. C'est important.
