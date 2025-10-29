@@ -9,6 +9,8 @@ You can see typical connection examples in the **S88_bricolage.pdf** file.
 
 * For electrical switch (ptoentiel-free) detection, you don't need optocouplers (see **S2**, with **JP6 connected**), except if you want to have a galvanic isolation (see **S1**). Without an optocoupler, it is necessary to solder a shunt by following the dotted lines on the PCB.
 
+### Arduino:
+
 The arduino sketch is in the **S88_UNO.zip** archive. It comes from Locoduino at https://www.locoduino.org/spip.php?article138
 
 Inputs/outputs used by the S88 bus on the Nano:
@@ -25,6 +27,8 @@ Digital inputs used for contacts:
 - The digital inputs are set to INPUT_PULLUP
 
 For this sketch, you'll need **UNO_S88** library, available in the **UNO_S88.zip** archive.
+
+### PCB:
 
 There are two versions of the PCB: one with screw terminals (see **S88_Nano_16R0C_2Layers** files), the other with DuPont connectors (see **S88_Nano_16R0C_2Layers_DuPont** file). Each person can choose whichever they prefer.
 The PCBs were designed using Eagle 9.6.2 free.
@@ -46,6 +50,8 @@ Vous trouverez des exemples de branchement typiques dans le fichier **S88_bricol
 
 * Pour la détection de contact (libre de potentiel), les optocoupleurs ne sont pas nécessaires (voir **S2**, avec **JP6 connecté**), sauf si vous souhaitez une isolation galvanique (voir **S1**). Sans optocoupleur, il est nécessaire de souder un shunt en suivant les pointillés sur le PCB.
 
+### Arduino :
+
 Le programme Arduino se trouve dans l'archive **S88_UNO.zip**. Il provient de Locoduino : https://www.locoduino.org/spip.php?article138
 
 Entrées/sorties utilisées par le bus S88 :
@@ -62,6 +68,8 @@ Entrées TOR (Tout Ou Rien) utilisées pour les contacts :
 - Les entrées TOR sont en INPUT_PULLUP
 
 Pour ce programme, vous aurez besoin de la bibliothèque **UNO_S88**, disponible dans l'archive **UNO_S88.zip**.
+
+### PCB :
 
 Il y a deux versions de PCB : un avec des borniers à vis (voir fichiers **S88_Nano_16R0C_2Layers**), l'autre avec des connecteurs DuPont (voir fichiers **S88_Nano_16R0C_2Layers_DuPont**). A chacun de choisir ce qu'il préfère.
 Les PCB ont été dessinés avec Eagle 9.6.2 free.
