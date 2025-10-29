@@ -31,6 +31,8 @@ The PCBs were designed using Eagle 9.6.2 free.
 
 On the PCB, there is a jumper labeled **Data_In_To**. On the last S88 module (the one furthest from the control unit), you must place a shunt between the **central terminal** and **GND**. This is important.
 
+The footprint of the RJ45 connector is shown on the file **dr-STW-SS-6488S-A-NF.pdf**.
+
 ---
 
 # Français
@@ -65,3 +67,5 @@ Il y a deux versions de PCB : un avec des borniers à vis (voir fichiers **S88_N
 Les PCB ont été dessinés avec Eagle 9.6.2 free.
 
 Sur le PCB, on trouve un Jumper nommé **Data_In_To**. Sur le dernier module S88 (le plus éloigné de la centrale), il faut mettre un shunt entre **la borne centrale** et le **GND**. C'est important.
+
+L'empreinte du connecteur RJ45 est présentée dans le fichier **dr-STW-SS-6488S-A-NF.pdf**.
